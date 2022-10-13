@@ -17,14 +17,14 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'GALANGG'
+global.ownername = 'FadlanAtacker'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6288279705482','6288279705482','6285643112659']
-global.premium = ['6288279705482']
-global.packname = 'LANGG ANTII GEDOR'
+global.owner = ['62895389040080','62895389040080','6285643112659']
+global.premium = ['62895389040080']
+global.packname = 'FADLAN ATACKER'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
